@@ -145,12 +145,7 @@ INSERT INTO `users` (`id`, `user_name`, `password`, `name`) VALUES
 (2, 'simos1234', '58b4e38f66bcdb546380845d6af27187', 'simos'),
 (3, 'user1234', '81dc9bdb52d04dc20036dbd8313ed055', 'user'),
 (4, 'user_2', 'd93591bdf7860e1e4ee2fca799911215', 'user2'),
-(5, 'user_3', 'd93591bdf7860e1e4ee2fca799911215', 'user3'),
-(6, 'tsiakas_1', '81dc9bdb52d04dc20036dbd8313ed055', 'tsiakas'),
-(7, 'simos', '81dc9bdb52d04dc20036dbd8313ed055', 'simos'),
-(8, 'MPLEKON', '81dc9bdb52d04dc20036dbd8313ed055', 'MPLEKON'),
-(9, 'NotFromFBI', '4b9170b38c73100e743f852232c5cfc7', 'Skase mwrh de tha pareis ta lefta moy'),
-(10, 'lolsexkaibmx', 'd2f14db0f38b07893af37707d087bfac', 'bigdick');
+(5, 'user_3', 'd93591bdf7860e1e4ee2fca799911215', 'user3'));
 
 --
 -- Ευρετήρια για άχρηστους πίνακες
